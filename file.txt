@@ -1,2 +1,2 @@
-Hello, Github
+Main version
 Second line
